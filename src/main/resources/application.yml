@@ -24,7 +24,7 @@ spring:
 
 okta:
   oauth2:
-    issuer: soni.uk.auth0.com
+    issuer: https://soni.uk.auth0.com/
     client-id: blRQtZDn4bi8qCDJlxFUm83filLOJYHo
     client-secret: JTUXmEOPLNbb_D0rx3et4JucuFM0lCJvYL6UdSY2SlYDn83_4KgaBxOctsZVYK0s
 
