@@ -1,7 +1,7 @@
 ---
 
 server:
-  port: ${PORT}
+  port: 4000
 
 spring:
   devtools:
