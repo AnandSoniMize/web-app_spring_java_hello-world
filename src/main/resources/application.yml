@@ -24,8 +24,8 @@ spring:
 
 okta:
   oauth2:
-    issuer: ${OKTA_OAUTH2_ISSUER}
-    client-id: ${OKTA_OAUTH2_CLIENT_ID}
-    client-secret: ${OKTA_OAUTH2_CLIENT_SECRET}
+    issuer: soni.uk.auth0.com
+    client-id: blRQtZDn4bi8qCDJlxFUm83filLOJYHo
+    client-secret: JTUXmEOPLNbb_D0rx3et4JucuFM0lCJvYL6UdSY2SlYDn83_4KgaBxOctsZVYK0s
 
 ...
